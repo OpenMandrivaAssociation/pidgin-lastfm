@@ -3,7 +3,7 @@ Summary: Last.fm Plugin for Pidgin
 Group: Networking/Instant messaging
 Name: pidgin-lastfm
 Version: %{version}
-Release: %mkrel 1
+Release: %mkrel 2
 License: GPLv3+
 Requires: pidgin-perl
 #gw no noarch as the plugin dir is different on x86_64
