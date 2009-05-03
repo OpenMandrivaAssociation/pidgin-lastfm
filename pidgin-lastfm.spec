@@ -1,4 +1,4 @@
-%define version 0.4
+%define version 0.4a
 Summary: Last.fm Plugin for Pidgin
 Group: Networking/Instant messaging
 Name: pidgin-lastfm
