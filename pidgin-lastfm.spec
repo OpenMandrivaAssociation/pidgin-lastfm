@@ -2,7 +2,7 @@ Summary:  Last.fm Plugin for Pidgin
 Group:    Networking/Instant messaging
 Name:     pidgin-lastfm
 Version:  0.4a
-Release:  4
+Release:  5
 License:  GPLv3+
 Requires: pidgin-perl
 Source: http://downloads.sourceforge.net/pidgin-lastfm/pidgin-lastfm_%{version}_all.tar.gz
