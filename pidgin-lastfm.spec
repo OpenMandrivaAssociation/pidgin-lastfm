@@ -6,7 +6,7 @@ Release:  5
 License:  GPLv3+
 Requires: pidgin-perl
 Source: http://downloads.sourceforge.net/pidgin-lastfm/pidgin-lastfm_%{version}_all.tar.gz
-URL: http://pidgin-lastfm.naturalnet.de
+URL: https://pidgin-lastfm.naturalnet.de
 
 #not noarch as the plugin dir is different on x86_64
 #BuildArch: noarch
